@@ -8,12 +8,17 @@ Oh, and did I mention it's all available under the [Creative Commons](http://cre
 
 # Samples
 ![](http://wearewearable.com/template/new/Pebble-8.png)
+
 ![](http://wearewearable.com/template/new/Pebble-1.png)
 ![](http://wearewearable.com/template/new/Pebble-3.png)
+
 ![](http://wearewearable.com/template/new/Pebble-4.png)
 ![](http://wearewearable.com/template/new/Pebble-5.png)
+
 ![](http://wearewearable.com/template/new/Pebble-6.png)
 ![](http://wearewearable.com/template/new/Pebble-7.png)
+
 ![](http://wearewearable.com/template/steel/Pebble-1.png)
 ![](http://wearewearable.com/template/steel/Pebble-2.png)
+
 ![](http://wearewearable.com/template/steel/Pebble-3.png)
