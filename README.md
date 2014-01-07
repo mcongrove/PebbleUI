@@ -1,6 +1,6 @@
 # Pebble UI Template
 
-The best Photoshop UI template for Pebble, hand-chosen by the Pebble team.
+Hands-down the best Photoshop UI template for Pebble.
 
 Includes all of the available built-in UI elements, a high-quality render of the watch body (including the new Pebble Steel), grids (by [Orviwan](http://forums.getpebble.com/profile/7316/orviwan)), and font information. And best of all, it's all done in vectors, which means you'll have no problems scaling this up to the size of a billboard.
 
